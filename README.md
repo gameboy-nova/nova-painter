@@ -1,7 +1,22 @@
-## 🎮 Painter
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0ed0e6d8-6d2f-4e7b-a07b-a5dcdaf75809" width="300">
+</p>
 
-### 📝 Description  
+<h1 align="center"> 
+Painter
+</h1>
+
+<p align="center">
 Move a cursor across the screen and paint pixels using a selectable color palette.
+</p>
+
+---
+## 🎮 Gameplay Showcase
+
+Here’s a quick look at the game in action:
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c2f68cc0-8699-4411-ba68-ba5e2c64d7c1" width="500">
+</p>
 
 ---
 
